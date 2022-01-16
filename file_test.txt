@@ -1,2 +1,2 @@
 This is a file of test for traning curses git
-for I lean with used git
+for I learn how to use git
